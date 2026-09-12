@@ -1,0 +1,13 @@
+{
+  "name": "can-it-eat-them-all",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A growing eater takes on a multiplying swarm in an original, deterministic JavaScript simulation.",
+  "scripts": {
+    "build": "python scripts/build-html.py",
+    "render": "node scripts/render-video.cjs",
+    "audio": "python scripts/make-audio.py",
+    "export": "npm run render && npm run audio"
+  },
+  "dependencies": {"@napi-rs/canvas": "0.1.100"}
+}
