@@ -10,7 +10,6 @@ An original, interactive 2D simulation made with JavaScript and Canvas. Cyan bal
 
 - **Watch the finished Short:** [Pilot 01 — MP4](media/can-it-eat-them-all-pilot-01.mp4).
 - **Play offline:** download this repository, extract it, and open `index.html` in your browser. Click **Play** to enable sound.
-- **Publish a live version:** follow [the GitHub guide](docs/GITHUB_SETUP.md). The site needs no build step or backend.
 
 The browser player is a single standalone HTML file. It works without internet access, external scripts, account creation, or API keys.
 
