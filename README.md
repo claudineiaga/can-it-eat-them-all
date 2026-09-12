@@ -150,8 +150,3 @@ Population accounting, arena containment, finite coordinates, deterministic repl
 Detailed run data is in [docs/run-report.json](docs/run-report.json).
 
 </details>
-
-## Publish the project
-
-- [GitHub upload and Pages instructions](docs/GITHUB_SETUP.md)
-- [English video title, description, tags, and pinned comment](docs/PUBLISHING.md)
